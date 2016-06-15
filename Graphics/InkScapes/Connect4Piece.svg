@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Connect4Piece.svg"
+   inkscape:export-filename="C:\Users\James\Desktop\connect4Yellow.png"
+   inkscape:export-xdpi="99.041069"
+   inkscape:export-ydpi="99.041069">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4156">
+      <stop
+         id="stop4160"
+         offset="0"
+         style="stop-color:#3e3c3c;stop-opacity:0.60115606" />
+      <stop
+         id="stop4158"
+         offset="1"
+         style="stop-color:#3b3e3e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4168"
+       osb:paint="gradient">
+      <stop
+         id="stop4172"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.98224854;" />
+      <stop
+         id="stop4170"
+         offset="1"
+         style="stop-color:#b91a21;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4156"
+       id="radialGradient4162"
+       cx="50"
+       cy="1002.3622"
+       fx="50"
+       fy="1002.3622"
+       r="42.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.70588234,2.4563889e-8,-2.4563866e-8,0.70588179,14.705908,294.81297)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.5637037"
+     inkscape:cx="3.5965004"
+     inkscape:cy="56.833424"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="100"
+     fit-margin-right="100"
+     showborder="false">
+    <sodipodi:guide
+       position="100,599.93324"
+       orientation="1,0"
+       id="guide3348"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="52.060321,100"
+       orientation="0,1"
+       id="guide3350"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4144"
+       spacingx="10"
+       spacingy="10"
+       snapvisiblegridlinesonly="false" />
+    <sodipodi:guide
+       position="-30,0"
+       orientation="0,1"
+       id="guide4146" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="1,0"
+       id="guide4148" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:url(#radialGradient4162);fill-opacity:1;stroke:none"
+       id="path3352"
+       cx="50"
+       cy="1002.3622"
+       r="42.5" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.92984319;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.26035503"
+       id="path4158"
+       cx="50"
+       cy="1002.3622"
+       r="34.03508" />
+  </g>
+</svg>
